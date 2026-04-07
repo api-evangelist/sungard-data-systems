@@ -1,7 +1,12 @@
 aid: sungard-data-systems
-url: https://raw.githubusercontent.com/api-evangelist/sungard-data-systems/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/sungard-data-systems/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.sungard-data-systems.com
+description: >-
+  SunGard Data Systems was a software and technology services company that provided
+  software and processing solutions to financial services, education, and the public
+  sector before being acquired by FIS.
