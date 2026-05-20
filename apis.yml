@@ -44,6 +44,10 @@ apis:
       - type: Website
         url: https://www.fisglobal.com/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/sungard-labs
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sungard
   - type: Website
     url: https://www.sungard-data-systems.com
   - type: Wikipedia
