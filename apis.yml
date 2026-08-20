@@ -25,6 +25,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sungard-data-systems.png
 tags:
+  - Financial-Services
+  - Capital Markets
+  - Risk Management
+  - Treasury
+  - Enterprise Software
+  - Acquired
+  - Fortune 1000
+tags_raw:
   - Financial Services
   - Capital Markets
   - Risk Management
@@ -48,6 +56,12 @@ apis:
       integrated into FIS Financial Solutions after the 2015 acquisition.
     humanURL: https://www.fisglobal.com/
     tags:
+      - Financial-Services
+      - Capital Markets
+      - Risk Management
+      - Trading
+      - Treasury
+    tags_raw:
       - Financial Services
       - Capital Markets
       - Risk Management
