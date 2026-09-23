@@ -1,7 +1,9 @@
 ---
 title: SunGard Higher Education Releases Talent Management ...
 url: https://www.educause.edu/about/corporate-participation/member-press-releases/sungard-higher-education-releases-talent-management-suite
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SunGard Data Systems" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: TPG in $11.3 Billion Buyout of SunGard Data Systems
 url: https://www.clearygottlieb.com/news-and-insights/news-listing/tpg-in-%24113-billion-buyout-of-sungard-data-systems32
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SunGard Data Systems" press release artificial intelligence'
 position: 1
 source: serpapi-google
