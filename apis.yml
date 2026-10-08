@@ -82,6 +82,12 @@ apis:
       - type: Website
         url: https://www.fisglobal.com/
 common:
+  - type: Plans
+    url: plans/sungard-data-systems-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/sungard-data-systems-rate-limits.yml
+  - type: FinOps
+    url: finops/sungard-data-systems-finops.yml
   - type: DomainSecurity
     url: security/sungard-data-systems-domain-security.yml
   - type: GitHubOrganization
